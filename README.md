@@ -28,7 +28,7 @@ None
 
 ## License
 
-![GitHub](https://img.shields.io/github/license/Ad-sall/store-website)
+MIT
 
 ## Deployment
 
